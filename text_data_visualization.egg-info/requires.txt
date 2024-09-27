@@ -1,0 +1,11 @@
+pandas
+bokeh
+math
+matplotlib.pyplot
+missingno
+plotly.express
+seaborn
+altair
+wordcloud
+numpy
+PIL
