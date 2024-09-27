@@ -15,5 +15,5 @@ setup(  name="text_data_visualization",              # Package name
             "Operating System :: OS Independent"],
         python_requires='>=3.12.2',               # Minimum Python version
         install_requires=[                        # Dependencies
-            "pandas", "bokeh", "math", "matplotlib.pyplot", "missingno", "plotly.express", "seaborn", "altair", "wordcloud", "numpy", "PIL"]                      # Example dependency
+            "pandas", "bokeh", "matplotlib", "missingno", "plotly", "seaborn", "altair", "wordcloud", "numpy", "pillow"]                      # Example dependency
     )

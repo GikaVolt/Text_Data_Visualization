@@ -1,11 +1,10 @@
 pandas
 bokeh
-math
-matplotlib.pyplot
+matplotlib
 missingno
-plotly.express
+plotly
 seaborn
 altair
 wordcloud
 numpy
-PIL
+pillow
